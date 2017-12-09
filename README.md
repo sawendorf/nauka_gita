@@ -16,4 +16,6 @@ Najczęściej wykorzystywane komendy
     curl google.com
     ```
 
-2. 
+2. Nauka komend
+
+3. Trzeci krok
