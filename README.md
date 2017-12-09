@@ -8,6 +8,15 @@ Pierwszy projekt w git
     git status
     python ...
 
+# Deploy
+
+  Komponent jest instalowany na instancji AWS.
+
+
+```
+    Cos tu jest napisane
+```
+
 Najczęściej wykorzystywane komendy
 
 1. Sprawdź WEB UI
