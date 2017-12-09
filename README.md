@@ -8,7 +8,17 @@ Pierwszy projekt w git
     git status
     python ...
 
-# Deploy
+# Deployment
+
+1 Zainstaluje:
+```
+deploy_aws.sh
+```
+
+2 Sprawdz czy dziala
+```
+curl google
+```
 
   Komponent jest instalowany na instancji AWS.
 
